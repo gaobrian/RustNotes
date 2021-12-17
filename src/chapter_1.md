@@ -10,6 +10,8 @@
 2.  export OPENSSL\_LIB\_DIR=/usr/local/lib
 
 3.  export OPENSSL\_STATIC=yes
+
+4.  export PKG_CONFIG=/usr/bin/pkg-config
 ```
 
 ```bash
